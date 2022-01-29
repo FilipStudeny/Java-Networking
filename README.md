@@ -1,2 +1,3 @@
-# Java
-Small Java projects -> Libraries, "Frameworks", examples
+# Java-Networking
+
+Simple TCP and UDP servers
